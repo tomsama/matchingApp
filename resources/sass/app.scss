@@ -1,0 +1,31 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import "~@fortawesome/fontawesome-free/scss/fontawesome"; /* 追記 */
+@import '~@fortawesome/fontawesome-free/scss/solid'; /* 追記 */
+@import '~@fortawesome/fontawesome-free/scss/regular'; /* 追記 */
+@import '~@fortawesome/fontawesome-free/scss/brands'; /* 追記 */
+
+
+
+@import "top";
+
+@import "sign_up";
+
+@import "sign_in";
+
+@import "show";
+
+@import "edit";
+
+@import "jTinder";
+
+@import "matching";
+
+@import "chat";
